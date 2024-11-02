@@ -4,4 +4,4 @@ This project consists of two types of tools.
 2. IDS resynthesizers programmed with Max which, for a given frequency mapping, allow you to listen to a partial to total re-synthesis of the signals analyzed. 
 Information on IDS analysis can be found on my ReasearchGate page (researchgate.net/profile/Laurent_Millot).
 
-### Videos explaining how to install, configure and use all these tools will be posted on my Autopscience YouTube channel(www.youtube.com/@autopscience5311) as soon as possible.
+### Videos explaining how to install, configure and use all these tools will be posted on my Autopscience YouTube channel(www.youtube.com/@autopscience_1Ch91) as soon as possible.
